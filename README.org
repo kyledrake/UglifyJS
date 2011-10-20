@@ -142,7 +142,8 @@ following cases UglifyJS *doesn't touch* calls or instantiations of Array:
 ** Install (NPM)
 
 UglifyJS is now available through NPM --- =npm install uglify-js= should do
-the job.
+the job. If you intend to use the command-line tool, install the package globally: 
+=npm install uglify-js -g=
 
 ** Install latest code from GitHub
 
